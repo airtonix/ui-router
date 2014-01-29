@@ -15,6 +15,9 @@
     "config",
     "sample",
     "test",
-    "tests"
+    "tests",
+    "site",
+    "GruntFile.js",
+    "files.js"
   ]
 }
